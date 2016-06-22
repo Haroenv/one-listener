@@ -1,7 +1,7 @@
 # one-listener
 
 big project?  
-many contributers?  
+many contributors?  
 
 too many event listeners on `window`?
 
