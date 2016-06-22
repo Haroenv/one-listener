@@ -1,0 +1,19 @@
+{
+  "name": "one-listener",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rm -rf node_modules && npm install",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel src/index.js > index.js"
+  },
+  "keywords": [],
+  "author": "Gregor Adams <greg@pixelass.com> (http://pixelass.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0"
+  }
+}
